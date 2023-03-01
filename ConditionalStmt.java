@@ -1,5 +1,5 @@
 package controlstmt;
-
+import java.lang; // package
 public class ConditionalStmt {
 
 	public static void main(String[] args) {
